@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(227, 198, 228);
+    font-family: cursive;
+}
+#webcam_view{
+    border:2px dashed rgb(107, 169, 231);
+    width:350px;
+    height:300px;
+}
+#result{
+    border:2px dashed rgb(107, 169, 231);
+    width:350px;
+    height:300px;
+}
